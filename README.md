@@ -1,2 +1,1 @@
-#!/bin/bash
-shell basics Readme
+task 0. Where am I? 
